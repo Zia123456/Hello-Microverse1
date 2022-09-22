@@ -1,0 +1,31 @@
+{
+  "name": "hello-microverse1",
+  "version": "1.0.0",
+  "description": "this repo contains Hello-Microverse1 project's files.\r ## Built With\r - html\r - css\r ## Live Demo (if available)\r Live Demo Link\r ## Getting Started\r Simply you can open index.html file with any browser and, you will see Hello Microverse.\r ### Prerequisites\r ### Browser\r ## Author\r ### 🧑🏻 Author1\r - GitHub: @zia123456\r - Twitter: @zia_bakhteyari\r - LinkedIn: Zia bakhteyari\r - \r ### 🤝 Contributing\r Contributions, issues, and feature requests are welcome!\r Feel free to check the issues page.\r ## Show your support\r Give a ⭐️ if you like this project!",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zia123456/Hello-Microverse1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zia123456/Hello-Microverse1/issues"
+  },
+  "homepage": "https://github.com/Zia123456/Hello-Microverse1#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.26.0",
+    "hint": "^7.1.2",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
